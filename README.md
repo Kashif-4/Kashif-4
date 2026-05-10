@@ -12,7 +12,9 @@
 > email      -> kashifmehmood2150@gmail.com
 
 ```
-<p> <a href="https://instagram.com/" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=00FF66" /> </a> <a href="mailto:kashifmehmood2150@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=00FF66" /> </a> <a href="[https://www.linkedin.com/in/caio-cesar-santos-930b3823b](https://www.linkedin.com/in/kashif-mehmood-2568a7364/)" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FF66" /> </a> </p>
+<p> <a href="https://instagram.com/" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=00FF66" /> </a> <a href="mailto:kashifmehmood2150@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=00FF66" /> </a> <a href="https://www.linkedin.com/in/kashif-mehmood-2568a7364/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FF66" />
+</a> </p>
 
 ## ├──📂About me
 
